@@ -1,4 +1,4 @@
-## Background & Objectives
+## Description
 
 The objective here to exemplify the use of Window functions in SQL, such as like `RANK` or `SUM` with the `OVER` keyword.
 
