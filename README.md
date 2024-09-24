@@ -1,6 +1,6 @@
 ## Description
 
-The objective here to exemplify the use of Window functions in SQL, such as like `RANK` or `SUM` with the `OVER` keyword.
+Using window functions in SQL, such as like `RANK` or `SUM` with the `OVER` keyword.
 
 Using `OVER` clause with:
 - `PARTITION BY` to select the scoped rows
